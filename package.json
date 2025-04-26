@@ -30,9 +30,7 @@
     "react-toastify": "^10.0.4",
     "date-fns": "^3.3.1",
     "uuid": "^9.0.1",
-    "vite": "^5.1.4"
-  },
-  "devDependencies": {
+    "vite": "^5.1.4",
     "@eslint/js": "^9.9.1",
     "@types/crypto-js": "^4.2.2",
     "@types/react": "^18.3.5",
